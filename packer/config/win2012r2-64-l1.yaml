@@ -22,11 +22,6 @@ vm:
         worker_pool_id: win2012r2-64-l1
         sourceOrganisation: mozilla-platform-ops
         sourceRepository: ronin_puppet
-<<<<<<< HEAD
         sourceBranch: 2012-bustage
         deploymentId: 75bd9ed
-=======
-        sourceBranch: cloud_windows
-        deploymentId: 579f452
->>>>>>> 9563a6e988f24d887afbba26ea6596ff239276c0
         managed_by: packer
